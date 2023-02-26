@@ -4,25 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c8ccde0-c960-422a-af48-244e234a3963" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/156.ser" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Capstone Project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/obifyconsulting/bookstore/controller/BookController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/obifyconsulting/bookstore/converter/BookConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/obifyconsulting/bookstore/dto/BookDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/obifyconsulting/bookstore/entity/BookEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/obifyconsulting/bookstore/repository/BookRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/obifyconsulting/bookstore/repository/impl/BookRepositoryImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/obifyconsulting/bookstore/serdeser/BookSerializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/obifyconsulting/bookstore/service/BookService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/obifyconsulting/bookstore/service/impl/BookServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/obifyconsulting/bookstore/testing/BookClient.java" afterDir="false" />
+    <list default="true" id="4c8ccde0-c960-422a-af48-244e234a3963" name="Changes" comment="1st commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
